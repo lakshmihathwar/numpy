@@ -138,10 +138,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👨‍💻 Author
 Your Name: Lakshmishree
-
-GitHub: [@lakshmihathwar] https://github.com/lakshmihathwar
-LinkedIn: https://www.linkedin.com/in/lakshmishree-40314a318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Email: lakshmi.hathwar04@gmail.com
+- GitHub: [@lakshmihathwar] https://github.com/lakshmihathwar
+- LinkedIn: https://www.linkedin.com/in/lakshmishree-40314a318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: lakshmi.hathwar04@gmail.com
 
 🙏 Acknowledgments
 NumPy documentation and community
@@ -169,5 +168,6 @@ Restart the kernel and run again
 ⭐ If you find this notebook helpful, please consider giving it a star!
 
 📧 Questions or suggestions? Open an issue or reach out!
+
 
 Happy Learning! 🎓
